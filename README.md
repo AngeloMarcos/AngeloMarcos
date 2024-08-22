@@ -23,7 +23,7 @@
 
 </div>
 
-##Resumo das Qualificações
+## Resumo das Qualificações
 
 Como desenvolvedor web apaixonado, recentemente concluí um curso intensivo de Desenvolvimento Web na TripleTen, que me proporcionou uma base sólida e avançada em várias tecnologias e práticas de desenvolvimento. Ao longo de 10 meses, adquiri habilidades abrangentes que me prepararam para enfrentar desafios reais na criação de soluções web inovadoras. Aqui estão alguns destaques do que eu aprendi e das habilidades que desenvolvi:
 Conhecimento Técnico 
