@@ -38,3 +38,54 @@ Experiência Prática
     Desenvolvimento de Soft Skills: Além das habilidades técnicas, o curso também me preparou para o mercado de trabalho com treinamento em técnicas de busca de emprego, elaboração de currículo, cartas de apresentação e habilidades de networking.
 
 Estou entusiasmado para aplicar esse conhecimento em projetos desafiadores e contribuir para o sucesso de equipes e empresas inovadoras. Se você está procurando um desenvolvedor web dedicado e com uma formação sólida em tecnologias modernas, ficarei feliz em conectar e explorar oportunidades.
+
+<ul>
+  <li>Desenvolvimento
+    <ul>
+      <li>JavaScript</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Bootstrap</li>
+      <li>PHP</li>
+      <li>SQL Server</li>
+      <li>MySQL</li>
+    </ul>
+  </li>
+  <li>Linguagens
+    <ul>
+      <li>Java</li>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>C#</li>
+      <li>PHP</li>
+    </ul>
+  </li>
+  <li>Frameworks
+    <ul>
+      <li>Spring Boot</li>
+      <li>React.js</li>
+      <li>Node.js</li>
+      <li>ASP</li>
+    </ul>
+  </li>
+  <li>Ferramentas
+    <ul>
+      <li>Git</li>
+      <li>GitHub</li>
+      <li>Postman</li>
+      <li>Trello</li>
+      <li>Webpack</li>
+      <li>Zabbix</li>
+      <li>VS Code</li>
+    </ul>
+  </li>
+  <li>Metodologias
+    <ul>
+      <li>Scrum</li>
+      <li>Agile</li>
+      <li>Kanban</li>
+      <li>BEM</li>
+    </ul>
+  </li>
+</ul>
+
