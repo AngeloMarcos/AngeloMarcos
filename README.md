@@ -7,11 +7,6 @@
 [![Blogger](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelo-marcos-116122181/)
 
 
-
-
-## Tecnologias que eu utilizo no meu dia
-
-
 <div style="display: inline_block"><br/>
     <img align="center" alt>
 
