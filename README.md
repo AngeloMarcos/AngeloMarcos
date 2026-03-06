@@ -24,7 +24,7 @@
 
 ## 📊 Perfil
 
-Especialista em **desenvolvimento Fullstack** com foco em automação de processos e inteligência artificial aplicada. Atualmente sou **Fundador e CEO da MentoArk**, onde crio soluções que transformam WhatsApp em secretária digital 24h para PMEs, integrando sistemas inteligentes e workflows automatizados.
+Desenvolvedor fullstack Junior com foco em automação de processos e inteligência artificial aplicada. Atualmente sou **Fundador da MentoArk**, onde crio soluções que transformam WhatsApp em secretária digital 24h para PMEs, integrando sistemas inteligentes e workflows automatizados.
 
 **🎯 Objetivo:**  
 Transformar negócios com tecnologia de ponta, automatizando processos, integrando sistemas e criando experiências que aumentam eficiência e conversão.
