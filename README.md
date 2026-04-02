@@ -25,7 +25,7 @@
 
 ## 📊 Perfil
 
-Desenvolvedor fullstack com 5+ anos de experiência em suporte técnico, desenvolvimento de software e automação de processos. Histórico comprovado em ambientes críticos (hospitais, governo, setor financeiro) com expertise em React, Node.js, N8N e sistemas de gestão. Busco oportunidades em **suporte técnico**, **desenvolvimento de software** ou **automação de processos** onde possa aplicar minhas habilidades técnicas e experiência prática.
+Desenvolvedor fullstack com mais de 7 anos de experiência em suporte técnico, desenvolvimento de software e automação de processos. Histórico comprovado em ambientes críticos (hospitais, governo, setor financeiro) com expertise em React, Node.js, N8N e sistemas de gestão. Busco oportunidades em **suporte técnico**, **desenvolvimento de software** ou **automação de processos** onde possa aplicar minhas habilidades técnicas e experiência prática.
 
 **🎯 Objetivo:**  
 Contribuir com equipes de tecnologia implementando soluções eficientes, automatizando processos, resolvendo problemas técnicos e desenvolvendo sistemas que aumentam produtividade e experiência do usuário.
